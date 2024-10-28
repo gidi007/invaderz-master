@@ -7,7 +7,7 @@ A genetic evolution twist on the classic Space Invaders game. Watch as the invad
 InvaderZ puts you in command of Earth's last defense against an alien invasion. Unlike traditional Space Invaders, these aliens evolve through genetic algorithms, learning from each generation's successes to become more challenging opponents.
 
 
-![Screenshot](./Screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## 🚀 How to Play
 
